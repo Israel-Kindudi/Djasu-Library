@@ -6,4 +6,5 @@
         --> git commit -m " your_message"
         --> remote add origin https://github.com/Israel-Kindudi/Djasu-Library.git main
         --> git push origin main 
-        
+        --> git commit -m "your message "
+        --> git push origin main 
