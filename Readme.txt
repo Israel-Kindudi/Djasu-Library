@@ -2,5 +2,8 @@
 
 
  --Copy and Paste your project inside of this forlder and try :
-        -- >  git clone --mirror https://github.com/Israel-Kindudi/Djasu-Library.git main
-        -- > git pull origin
+        --> git clone --mirror https://github.com/Israel-Kindudi/Djasu-Library.git main
+        --> git commit -m " your_message"
+        --> remote add origin https://github.com/Israel-Kindudi/Djasu-Library.git main
+        --> git push origin main 
+        
